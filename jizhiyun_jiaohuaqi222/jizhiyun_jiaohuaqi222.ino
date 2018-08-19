@@ -1,3 +1,5 @@
+//彭文正原创，转载请注明出处，尊重作者。
+//个人博客：http://www.wenzheng.club
 #include <Gizwits.h>
 #include <Wire.h>
 #include <SoftwareSerial.h>
